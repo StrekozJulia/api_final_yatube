@@ -19,7 +19,7 @@ cd api_final_yatube
 ```
 py -3.7 -m venv venv
 ```
-4 Активировать виртуальное окружение
+4. Активировать виртуальное окружение
 ```
 source venv/scripts/activate
 ```
