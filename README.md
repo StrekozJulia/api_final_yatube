@@ -8,28 +8,37 @@ ____
 ### Как запустить проект:
 
 + Клонировать репозиторий 
+```
 git clone https://github.com/StrekozJulia/api_final_yatube.git
-
+```
 + Перейти в него в командной строке
+```
 cd api_final_yatube
-
+```
 + Cоздать виртуальное окружение
+```
 py -3.7 -m venv venv
-
+```
 + Активировать виртуальное окружение
+```
 source venv/scripts/activate
-
+```
 + Обновить пакетный установщик
+```
 py -3.7 -m pip install --upgrade pip
-
+```
 + Установить зависимости из файла requirements.txt
+```
 pip install -r requirements.txt
-
+```
 + Выполнить миграции
+```
 python manage.py migrate
-
+```
 + Запустить проект
+```
 python manage.py runserver
+```
 ____
 ## Доступные запросы к API:
 
