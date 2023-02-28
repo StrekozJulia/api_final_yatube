@@ -2,7 +2,7 @@
 ____
 ## Yatube - социальная сеть для блогеров
 
-Полностью реализует доступ к функционалу социальной сети [Yatube](git@github.com:StrekozJulia/hw05_final.git) через API
+Полностью реализует доступ к функционалу социальной сети [Yatube](https://github.com/StrekozJulia/hw05_final.git) через API
 ____
 
 ### Как запустить проект:
