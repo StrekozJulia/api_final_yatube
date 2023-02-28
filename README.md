@@ -10,6 +10,10 @@ ____
 * Django 2.2.16
 * Pillow 8.3.1
 * Pytest 6.2.4
+* Django 2.2.16
+* DjangoRestFramework 3.12.4
+* PyJWT==2.1.0
+* Djoser==2.1.0
 
 ### Как запустить проект:
 
